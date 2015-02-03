@@ -1,0 +1,6 @@
+C:\Users\ma223ku\Documents\Visual Studio 2013\Projects\KonverteraTemperaturer\bin\KonverteraTemperaturer.dll.config
+C:\Users\ma223ku\Documents\Visual Studio 2013\Projects\KonverteraTemperaturer\bin\KonverteraTemperaturer.dll
+C:\Users\ma223ku\Documents\Visual Studio 2013\Projects\KonverteraTemperaturer\bin\KonverteraTemperaturer.pdb
+C:\Users\ma223ku\Documents\Visual Studio 2013\Projects\KonverteraTemperaturer\obj\Debug\KonverteraTemperaturer.csprojResolveAssemblyReference.cache
+C:\Users\ma223ku\Documents\Visual Studio 2013\Projects\KonverteraTemperaturer\obj\Debug\KonverteraTemperaturer.dll
+C:\Users\ma223ku\Documents\Visual Studio 2013\Projects\KonverteraTemperaturer\obj\Debug\KonverteraTemperaturer.pdb
