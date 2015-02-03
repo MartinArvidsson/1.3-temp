@@ -28,12 +28,12 @@
         <asp:TextBox ID="TempStepBox" runat="server"></asp:TextBox>
         <asp:RequiredFieldValidator ID="NoEmptyTempStep" runat="server" ErrorMessage="Fältet kan inte vara tomt" ControlToValidate="TempStepBox" Display="Dynamic"></asp:RequiredFieldValidator>
         <asp:CompareValidator ID="ValidationOfTempStep" runat="server" ErrorMessage="Ange ett tal!" Display="Dynamic" Type="Integer"  ControlToValidate="TempStepBox" ValueToCompare="0" Operator="GreaterThan"></asp:CompareValidator>
-        <asp:RangeValidator ID="ValidationOfRangeTempStep" runat="server" ErrorMessage="Måste vara inom intervallet 1-100" Display="Dynamic" ControlToValidate="TempStepBox" MaximumValue="100" MinimumValue="1"></asp:RangeValidator>
+        <asp:RangeValidator ID="ValidationOfRangeTempStep" runat="server" ErrorMessage="Måste vara inom intervallet 1-100" Display="Dynamic" ControlToValidate="TempStepBox" MaximumValue="100" MinimumValue="1" Type="Integer"></asp:RangeValidator>
 
 
 
     <h2>Typ av konvertering:</h2>
-        <asp:RadioButton ID="CelToFarButton" runat="server" Text="Celsius till farenheit" GroupName="KonvertButton" />
+        <asp:RadioButton ID="CelToFarButton" runat="server" Text="Celsius till farenheit" GroupName="KonvertButton" Checked="True" />
         <asp:RadioButton ID="FarToCelButton" runat="server" Text="Farenheit till celsius" GroupName="KonvertButton" />
         <asp:Button ID="CalculateButton" runat="server" Text="Konvertera!" OnClick="CalculateButton_Click" />
     </div>
