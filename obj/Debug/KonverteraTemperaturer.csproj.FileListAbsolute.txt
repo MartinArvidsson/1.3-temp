@@ -10,3 +10,9 @@ C:\Users\Martin\Desktop\SKOLSAKER\ASP labb 3\bin\KonverteraTemperaturer.dll.conf
 C:\Users\Martin\Desktop\SKOLSAKER\ASP labb 3\bin\KonverteraTemperaturer.dll
 C:\Users\Martin\Desktop\SKOLSAKER\ASP labb 3\bin\KonverteraTemperaturer.pdb
 C:\Users\Martin\Desktop\SKOLSAKER\ASP labb 3\obj\Debug\KonverteraTemperaturer.pdb
+C:\Users\ma223ku\Desktop\ASP 3\bin\KonverteraTemperaturer.dll.config
+C:\Users\ma223ku\Desktop\ASP 3\bin\KonverteraTemperaturer.dll
+C:\Users\ma223ku\Desktop\ASP 3\bin\KonverteraTemperaturer.pdb
+C:\Users\ma223ku\Desktop\ASP 3\obj\Debug\KonverteraTemperaturer.csprojResolveAssemblyReference.cache
+C:\Users\ma223ku\Desktop\ASP 3\obj\Debug\KonverteraTemperaturer.dll
+C:\Users\ma223ku\Desktop\ASP 3\obj\Debug\KonverteraTemperaturer.pdb

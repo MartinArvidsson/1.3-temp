@@ -38,5 +38,6 @@
         <asp:Button ID="CalculateButton" runat="server" Text="Konvertera!" OnClick="CalculateButton_Click" />
     </div>
     </form>
+    <asp:Table ID="Table1" runat="server" Visible="False"></asp:Table>
 </body>
 </html>
