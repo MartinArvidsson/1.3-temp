@@ -1,0 +1,74 @@
+﻿body {
+    background-image:url(Backgroundpic.jpg)
+}
+h1{
+    font-family:Gabriola;
+    font-size:xx-large;
+    font-style:italic;
+    
+    text-align:center;
+}
+h2{
+    font-family:Gabriola;
+    font-size:large;
+    font-style:oblique;
+    
+    text-align:center;
+}
+Textbox{
+    margin-left:auto;
+    margin-right:auto;
+}
+#Table1{
+    border:double 2px black;
+    background-color:rgba(0,0,0,0.2);
+    width:200px;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:50px;
+    
+}
+tbody{
+}
+tr{
+    border:double 2px black;
+}
+td{
+    border:double 2px black;
+    text-align:center;
+}
+th{
+    border:double 2px black;
+    text-align:center;
+}
+.CalcButton{
+    margin-top:10px;
+    margin-left:auto;
+    margin-right:auto;
+    font-family:Gabriola;
+    font-size:24px;
+    width:100px;
+
+}
+.RadioButton{
+    font-family:Gabriola;
+    font-style:oblique;
+}
+MainWindowArea{
+    text-align:center;
+}
+
+#AllignTextBox1,#AllignTextBox2,#AllignTextBox3{
+    text-align:center;
+}
+#StartTempBox,#EndTempTextBox,#TempStepBox{
+    text-align:center;
+}
+#ChooseButton{
+    text-align:center;
+    font-style:oblique;
+    font-size:20px;
+}
+.ErrorMessage{
+    color:indianred;
+}
