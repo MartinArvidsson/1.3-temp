@@ -11,7 +11,7 @@ namespace KonverteraTemperaturer.Model
         {
           
            
-            return(int)Math.Round((degreesC * 1.8) +32);
+            return(int)Math.Round(degreesC * 1.8 + 32);
             //Cel -> Far [°F] = [°C] ∙ 1,8 + 32
         }
 
@@ -20,7 +20,7 @@ namespace KonverteraTemperaturer.Model
 
             // Far -> Cel [°C] = ([°F] − 32) ∙ 5 / 9
             
-            return (int)(degreesF - 32) * 5/9;
+            return (int)Math.Round((degreesF - 32) * 5 / 9d);
         } 
         
         
